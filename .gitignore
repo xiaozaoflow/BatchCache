@@ -4,21 +4,12 @@
 
 # maven #
 target
-
-logs
-
-# windows #
-Thumbs.db
+mvnw
+mvnw.cmd
 
 # Mac #
 .DS_Store
 
-# eclipse #
-.settings
-.project
-.classpath
-.log
-*.class
 
 # idea #
 .idea
